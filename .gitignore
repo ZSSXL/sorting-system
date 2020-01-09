@@ -1,10 +1,6 @@
-HELP.md
-/target/
-/.idea
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
+/.idea/
 /.mvn/
-/.nb-gradle/
-
+*.iml
+/target/
+.project
+/.settings/
